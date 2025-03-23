@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.addAlign {
+  position: absolute;
+  top: 351px;
+  right: 370px;
+}
+
+.submitAlign {
+  position: absolute;
+  top: 351px;
+  right: 200px;
+}
